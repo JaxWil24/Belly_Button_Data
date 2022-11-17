@@ -1,5 +1,6 @@
 body {
     color: black;
+    font: normal 10px Verdana, Arial, sans-serif;
   }
 
 .jumbotron {
@@ -9,6 +10,9 @@ body {
   color: white;
 }
 
-body {
-    font: normal 10px Verdana, Arial, sans-serif;
+.well {
+  background-color: "#006666";
+  font-family: Calibri;
+  color:black;
+  font-weight: bolder;
 }
